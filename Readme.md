@@ -1,6 +1,8 @@
 # Deep interface loader bug
 
-Run the program
+Bug report: https://github.com/golang/go/issues/22866
+
+## Run the program
 
 ```sh
 git clone https://github.com/matthewmueller/deep-interface-bug.git
