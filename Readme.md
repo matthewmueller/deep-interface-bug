@@ -1,6 +1,6 @@
 # Deep interface loader bug
 
-Bug reportmake: https://github.com/golang/go/issues/22866
+Bug report: https://github.com/golang/go/issues/22866
 
 ## Run the program
 
